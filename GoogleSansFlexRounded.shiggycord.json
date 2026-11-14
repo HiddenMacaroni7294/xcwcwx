@@ -1,0 +1,12 @@
+{
+  "spec": 1,
+  "name": "Google Sans Flex Rounded",
+  "description": "Pixel-inspired rounded Google Sans Flex. Roundness 100, optical size 18, with separate normal, medium, semibold, bold and extra-bold fonts.",
+  "main": {
+    "ggsans-Normal": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5iNspu1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHAy8Bzg.ttf",
+    "ggsans-Medium": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5iNspu1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHMS8Bzg.ttf",
+    "ggsans-Semibold": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5iNspu1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdH3SgBzg.ttf",
+    "ggsans-Bold": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5iNspu1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdH5CgBzg.ttf",
+    "ggsans-ExtraBold": "https://fonts.gstatic.com/s/googlesansflex/v26/t5s6IQcYNIWbFgDgAAzZ34auoVyXkJCOvoOmPWNbN5iNspu1x5Vwd0N3l9sIcwowNJwGpVd4AZzz0v6lJ4qFXNZhGjLvDSkV4USKMo6qQzwliVdHgygBzg.ttf"
+  }
+}
